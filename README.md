@@ -4,11 +4,9 @@ android utility library
 Installation
 ------------
 
-[![](https://jitpack.io/v/d3x773r/kraken.svg)](https://jitpack.io/#d3x773r/kraken)
+Use the following snippet
 
-## Use the following snippet
-
-## gradle
+##### gradle
 
 Step 1.
 
@@ -24,7 +22,7 @@ Step 2.
 	        implementation 'com.github.d3x773r:kraken:Tag'
 	}
 
-## maven
+##### maven
 
 Step 1.
 
