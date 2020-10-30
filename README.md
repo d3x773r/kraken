@@ -19,7 +19,7 @@ Step 1.
 Step 2.
 
 	dependencies {
-	        implementation 'com.github.d3x773r:kraken:Tag'
+	        implementation 'com.github.d3x773r:kraken:1.0.0'
 	}
 
 #### maven
@@ -39,6 +39,6 @@ Step 1.
 	<dependency>
 	    <groupId>com.github.d3x773r</groupId>
 	    <artifactId>kraken</artifactId>
-	    <version>Tag</version>
+	    <version>1.0.0</version>
 	</dependency>
 
