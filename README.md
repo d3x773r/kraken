@@ -6,7 +6,7 @@ Installation
 
 Use the following snippet
 
-##### gradle
+#### gradle
 
 Step 1.
 
@@ -22,7 +22,7 @@ Step 2.
 	        implementation 'com.github.d3x773r:kraken:Tag'
 	}
 
-##### maven
+#### maven
 
 Step 1.
 
