@@ -21,7 +21,7 @@ Step 1.
 Step 2.
 
 	dependencies {
-	        implementation 'com.github.d3x773r:kraken:1.0.0'
+	        implementation 'com.github.d3x773r:kraken:{latest version}'
 	}
 
 #### maven
@@ -41,6 +41,6 @@ Step 1.
 	<dependency>
 	    <groupId>com.github.d3x773r</groupId>
 	    <artifactId>kraken</artifactId>
-	    <version>1.0.0</version>
+	    <version>{latest version}</version>
 	</dependency>
 
