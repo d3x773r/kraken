@@ -4,6 +4,8 @@ android utility library
 Installation
 ------------
 
+Release: [![](https://jitpack.io/v/d3x773r/kraken.svg)](https://jitpack.io/#d3x773r/kraken)
+
 Use the following snippet
 
 #### gradle
